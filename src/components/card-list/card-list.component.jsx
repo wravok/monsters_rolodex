@@ -12,7 +12,6 @@ export const CardList = (props) => {
     )
   );
     
-
     return (
         <div className='card-list'>
             {displayMonsters()}
